@@ -5,7 +5,7 @@ This repo demonstrates:
 - Secure LLM comparison
 
 ## Requirements
-- Linux / macOS
+- Linux (To run bash script)
 - Ollama installed
 
 ## Setup
