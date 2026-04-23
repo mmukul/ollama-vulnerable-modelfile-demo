@@ -18,8 +18,8 @@ ollama pull llama3.2:3b
 ## Build models
 
 ollama create vulnerable-demo -f models/vulnerable/Modelfile
+
 ollama create secure-demo -f models/secure/Modelfile
-  
 
 ## Run
 
