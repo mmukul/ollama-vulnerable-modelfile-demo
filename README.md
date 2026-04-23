@@ -7,7 +7,7 @@ This repo demonstrates:
 
 ## Requirements
 
-- Linux
+- Linux (To run bash script otherwise can be ignored)
 
 - Ollama installed
 
